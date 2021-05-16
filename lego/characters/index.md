@@ -7,6 +7,7 @@ To Do List / Done List
 - Jesus Blend File - Textured & Rigged :white_check_mark:
 - Jesus - LipSync Sheet
 - Blender Example Animation
+- Blender Example LipSync
 - Unity Example Import
 
 **12 Disciples**
