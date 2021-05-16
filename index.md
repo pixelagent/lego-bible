@@ -1,4 +1,4 @@
-# LEGO Bible
+# LEGO Bible Project
 
 ## Interactive Children's Bible
 Project to develop an interactive childrens Bible using story telling and game play. 
