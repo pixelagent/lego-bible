@@ -1,6 +1,6 @@
 # LEGO Bible
 
-## Interactive Childrens Bible
+## Interactive Children's Bible
 Project to develop an interactive childrens Bible using story telling and game play. 
 Using open source Blender LEGO animations for the story telling added to Unity's Cinemachine for simple game based storys with a game for children to play after enjoying the animated stories.
 
