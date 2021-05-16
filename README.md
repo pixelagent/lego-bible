@@ -14,8 +14,7 @@ Timeframe: Aiming to hopefully have a prototype ready for September 2021.
 
 **References**
 ![blender example](assets/example_jesus.png) 
-*Image Example from Blender*
-
+*Image Example from Jesus LEGO Figure V0.1 - Fully Rigged Blender Model*
 
 **Examples**
 - https://play.unity.com/mg/other/islegone
