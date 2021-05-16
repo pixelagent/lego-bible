@@ -1,6 +1,15 @@
 # List of LEGO Characters
 
-To Do List
+To Do List / Done List
 
-- Jesus - V0.1 - Textured & Rigged
-- 12 Disciples
+**Jesus**
+- Version 0.1 
+- Jesus Blend File - Textured & Rigged :white_check_mark:
+- Jesus - LipSync Sheet
+- Blender Example Animation
+- Unity Example Import
+
+**12 Disciples**
+- Disciples Blend Files
+- Blender Example Animation
+- Unity Example Import
