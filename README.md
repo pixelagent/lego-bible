@@ -7,11 +7,11 @@ Using open source Blender LEGO animations for the story telling added to Unity's
 Aiming to hopefully have a prototype ready for September 2021.
 
 Exmaples 
-https://play.unity.com/mg/other/islegone
-https://play.unity.com/mg/other/adventures-the-lost-tomb-1-0-1
-https://play.unity.com/mg/lego/the-old-smoke
-https://play.unity.com/mg/lego/the-treasure-of-crab-mountain
-https://play.unity.com/mg/lego/regrow-the-world
+- https://play.unity.com/mg/other/islegone
+- https://play.unity.com/mg/other/adventures-the-lost-tomb-1-0-1
+- https://play.unity.com/mg/lego/the-old-smoke
+- https://play.unity.com/mg/lego/the-treasure-of-crab-mountain
+- https://play.unity.com/mg/lego/regrow-the-world
 
 
 
