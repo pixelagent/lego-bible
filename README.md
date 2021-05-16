@@ -12,7 +12,7 @@ Aiming to hopefully have a prototype ready for September 2021.
  - All used Software should be open source to allow collaboration between developers - Unity / Blender
 
 **References**
-| [blender example](/assets/example_jesus.png) | 
+| [blender example](assets/example_jesus.png) | 
 |:--:| 
 | *Image Example from Blender* |
 
