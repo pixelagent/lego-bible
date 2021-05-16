@@ -11,6 +11,9 @@ Aiming to hopefully have a prototype ready for September 2021.
  - Multi Language Open Source Bible Text Files - TBC
  - All used Software should be open source to allow collaboration between developers - Unity / Blender
 
+**References**
+![thebrickbible.com](https://www.thebrickbible.com/2019/wp-content/uploads/2020/02/04_image-8.jpg)
+*Image from the thebrickbible.com*
 
 **Examples**
 - https://play.unity.com/mg/other/islegone
