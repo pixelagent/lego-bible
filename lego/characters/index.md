@@ -2,5 +2,5 @@
 
 To Do List
 
-- Jesus
+- Jesus - V0.1
 - 12 Disciples
