@@ -12,9 +12,9 @@ Aiming to hopefully have a prototype ready for September 2021.
  - All used Software should be open source to allow collaboration between developers - Unity / Blender
 
 **References**
-| [thebrickbible.com](https://img.huffingtonpost.com/asset/5bb61a9e200000990000fff8.jpeg) | 
+| [blender example](/assets/example_jesus.png) | 
 |:--:| 
-| *Image from the thebrickbible.com* |
+| *Image Example from Blender* |
 
 
 **Examples**
