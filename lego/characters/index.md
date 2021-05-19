@@ -6,7 +6,7 @@ To Do List / Done List
 - Version 0.1 
 - Jesus Blend File - Textured & Rigged :white_check_mark:
 - Jesus - LipSync Sheet
-- Blender Example Animation
+- Blender Example Animation  :white_check_mark:
 - Blender Example LipSync
 - Unity Example Import :white_check_mark:
 - Unity Example Animation
