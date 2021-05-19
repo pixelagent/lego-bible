@@ -16,6 +16,6 @@ skin #f9d2b1
 clothes #d5bc7c
 
 **12 Disciples**
-- Disciples Blend Files
+- Disciples Blend Files :white_check_mark:
 - Blender Example Animation
 - Unity Example Import
