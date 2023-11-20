@@ -4,18 +4,12 @@
 Project to develop an interactive childrens Bible using story telling and game play. 
 Using open source Blender LEGO animations for the story telling added to Unity's Cinemachine for simple game based storys. With various interactive games for children to play after enjoying watching the animated stories.
 
-**Moses**
-https://share.descript.com/view/PaVQnrY2LDw
+Hoping to use these audio recording which are outof copyright as adverts for the interactive Bible stories
 
-**Daniel**
-https://share.descript.com/view/c0udljkco1f
-
-**David**
-https://share.descript.com/view/7XI0RxyxeWf
-
-**Noah**
-https://share.descript.com/view/NRL4KHyzSYA
-
+- **Moses** https://share.descript.com/view/PaVQnrY2LDw
+- **Daniel** https://share.descript.com/view/c0udljkco1f
+- **David** https://share.descript.com/view/7XI0RxyxeWf
+- **Noah** https://share.descript.com/view/NRL4KHyzSYA
 
 **Requirements**
  - Multi Language Open Source Spoken Bible Audio Files - TBC
