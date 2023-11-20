@@ -17,14 +17,12 @@ https://share.descript.com/view/7XI0RxyxeWf
 https://share.descript.com/view/NRL4KHyzSYA
 
 
-Timeframe: Aiming to hopefully have a prototype ready for September 2021.
+Timeframe: Aiming to hopefully have a prototype ready for 2024.
 
 **Requirements**
  - Multi Language Open Source Spoken Bible Audio Files - TBC
  - Multi Language Open Source Bible Text Files - TBC
- - 
- - All used Software should be open source to allow collaboration between developers - Unity / Blender
-
+   
 **References**
 ![blender example](assets/example_jesus.png) 
 *Image Example from Jesus LEGO Figure V0.1 - Fully Rigged Blender Model*
