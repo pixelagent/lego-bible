@@ -25,7 +25,7 @@ https://share.descript.com/view/NRL4KHyzSYA
 ![blender example](assets/example_jesus.png) 
 *Image Example from Jesus LEGO Figure V0.1 - Fully Rigged Blender Model*
 
-**Working Example
+**Working Example**
 - https://drive.google.com/file/d/15IU7eIywfkRE5YDQBCarh3x-Y0vwIEHQ/view?usp=sharing
 
 **Examples**
